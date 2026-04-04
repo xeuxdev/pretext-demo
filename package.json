@@ -9,9 +9,12 @@
     "typecheck": "react-router typegen && tsc"
   },
   "dependencies": {
+    "@chenglou/pretext": "^0.0.4",
     "@react-router/node": "7.14.0",
     "@react-router/serve": "7.14.0",
+    "dotenv": "^8.2.0",
     "isbot": "^5.1.36",
+    "node-fetch": "^3.3.2",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "react-router": "7.14.0"
